@@ -1,7 +1,1 @@
-<?php
-
-echo "<hr>";
-  
-echo "-";
-
-print_r($_SERVER);
+echo $_SERVER["SERVER_NAME"];
