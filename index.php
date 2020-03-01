@@ -4,4 +4,4 @@ echo "<hr>";
   
 echo "-";
 
-echo $_SERVER["SERVER_NAME"];
+print_r($_SERVER);
